@@ -16,8 +16,5 @@ public class Wizard : Enemy
         
     }
 
-    protected override void AttackPlayer()
-    {
-        base.AttackPlayer();
-    }
+   
 }
